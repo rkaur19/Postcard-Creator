@@ -4,6 +4,8 @@ For the Konica Minolta Web Developer position exam, I chose to do the first proj
 Postcard Creator is a web application that takes an image as an input (Upload image option) from the user, asks the user to crop the image and then sends the modified image via email to anyone.
 
 This project was done with assistance from few tutuorials like:
+- https://html.com/attributes/form-enctype/
+- https://stackoverflow.com/questions/51371492/how-to-select-area-of-an-image-for-cropping/51391728
 - https://stackoverflow.com/questions/51371492/how-to-select-area-of-an-image-for-cropping
 - http://odyniec.net/projects/imgareaselect/jquery.imgareaselect.dev.js
  
