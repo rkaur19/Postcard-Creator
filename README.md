@@ -8,6 +8,7 @@ This project was done with assistance from few tutuorials like:
 - https://stackoverflow.com/questions/51371492/how-to-select-area-of-an-image-for-cropping/51391728
 - https://stackoverflow.com/questions/51371492/how-to-select-area-of-an-image-for-cropping
 - http://odyniec.net/projects/imgareaselect/jquery.imgareaselect.dev.js
+- http://image.intervention.io/getting_started/installation
  
  ### Languages used
 - HTML / CSS
