@@ -41,4 +41,4 @@ This project was done with assistance from few tutuorials like:
 12. Go on your brower and type "localhost/konicaminolta/"
 13. From here, the user will be prompted to upload a picture and start modifying it. 
 
-ALL OF THE CROPPED IMAGES ARE SAVED IN "htdocs\konicaminolta\images" DIRECTORY. 
+ALL OF THE CROPPED AND ORIGINAL IMAGES ARE SAVED IN "htdocs\konicaminolta\images" DIRECTORY. 
