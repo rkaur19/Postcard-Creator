@@ -41,7 +41,7 @@ This project was done with assistance from few tutuorials like:
 9. Create "crop.php" which will have the server side code
 10. Now that the development is done, open XAMPP
 11. in XAMPP, start Apache Module
-12. Go on your brower and type "localhost/konicaminolta/"
+12. Go on your brower and type "localhost/postcardreader/"
 13. From here, the user will be prompted to upload a picture and start modifying it. 
 
 ALL OF THE CROPPED AND ORIGINAL IMAGES ARE SAVED IN "htdocs\konicaminolta\images" DIRECTORY. 
