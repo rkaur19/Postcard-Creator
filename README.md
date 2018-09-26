@@ -5,6 +5,7 @@ Postcard Creator is a web application that takes an image as an input (Upload im
 
 This project was done with assistance from few tutuorials like:
 - https://stackoverflow.com/questions/51371492/how-to-select-area-of-an-image-for-cropping
+- http://odyniec.net/projects/imgareaselect/jquery.imgareaselect.dev.js
  
  ### Languages used
 - HTML / CSS
@@ -29,9 +30,15 @@ This project was done with assistance from few tutuorials like:
 1. Download XAMPP for PHP development environment: https://www.apachefriends.org/index.html
 2. Download Composer v1.7.2, dependency Manager for PHP which will pull all the required libraries and manage them in one place (https://getcomposer.org/).
 3. Open command line in htdocs of your project (Konicaminolta) in XAMPP and run "composer require intervention/image"
-4. Create a new folder called CSS in your project folder
-5. Downlaod ImageAreaSelect plugin, extract it and copy (border-h, border-v, imageareaselect file) into the CSS folder.
-6. Create a new folder called JS in your project folder
-7. From the extraced from in your downloads, copy "jquery.imgareaselect.min" into the JS folder
-8. Create index.html which will have the client side code
-9. Create Crop.php which will have the server side code
+4. Create a new folder called "css" in your project folder
+5. Downlaod ImageAreaSelect plugin, extract it and copy (border-h, border-v, imageareaselect file) into the "css" folder.
+6. Create a new folder called "js" in your project folder
+7. From the extraced from in your downloads, copy "jquery.imgareaselect.min" into the "js" folder
+8. Create "index.html" which will have the client side code
+9. Create "crop.php" which will have the server side code
+10. Now that the development is done, open XAMPP
+11. in XAMPP, start Apache Module
+12. Go on your brower and type "localhost/konicaminolta/"
+13. From here, the user will be prompted to upload a picture and start modifying it. 
+
+ALL OF THE CROPPED IMAGES ARE SAVED IN "htdocs\konicaminolta\images" DIRECTORY. 
